@@ -1,0 +1,10 @@
+{
+  "name": "ClearHearth — Urban Air Quality Assistant",
+  "description": "GenAI-powered urban air quality and winter smog assistant with real-time interactive air quality heatmaps, tailored low-emission routines, indoor air hacks, and community impact modeling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
